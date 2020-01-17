@@ -1,4 +1,7 @@
 <p>
+	<a href="https://gitpod.io/#https://github.com/sveltejs/svelte">
+		<img alt="Gitpod Ready-to-Code" src="https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod">
+	</a>
   <a href="https://svelte.dev">
 	<img alt="Cybernetically enhanced web apps: Svelte" src="https://sveltejs.github.io/assets/banner.png">
   </a>
